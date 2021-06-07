@@ -7,3 +7,7 @@
 .container-fluid {
     min-height: 300px;
 }
+
+header nav ul {
+    display: flex;
+}
