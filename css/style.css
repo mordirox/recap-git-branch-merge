@@ -28,3 +28,8 @@ li a {
 li:hover a {
     color: red;
 }
+
+button {
+    border-radius: 30px;
+    padding: 5px 20px;
+}
