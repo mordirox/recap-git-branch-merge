@@ -12,3 +12,8 @@ footer {
     background: #333;
     min-height: 200px;
 }
+
+header nav ul {
+    display: flex;
+
+}
