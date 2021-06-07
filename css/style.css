@@ -17,3 +17,8 @@ header nav ul {
     display: flex;
 
 }
+
+button {
+    border-radius: 30px;
+    padding: 5px 20px;
+}
