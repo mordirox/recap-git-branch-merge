@@ -7,3 +7,8 @@
 .container-fluid {
     min-height: 300px;
 }
+
+footer {
+    background: #333;
+    min-height: 200px;
+}
