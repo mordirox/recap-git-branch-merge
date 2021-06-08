@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
-header nav ul {
+header nav ul { 
+    display: flex;
+}
+
+
+footer {
     display: flex;
 }
