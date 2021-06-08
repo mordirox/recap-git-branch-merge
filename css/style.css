@@ -16,6 +16,12 @@ footer {
     color: red;
 }
 
+
 nav ul li {
     color: black;
+}
+
+.container a {
+    font-size: 32px;
+
 }
