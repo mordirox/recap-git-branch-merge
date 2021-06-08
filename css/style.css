@@ -3,33 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-.container-fluid {
-    min-height: 300px;
-}
-
-footer {
-    background: #333;
-    min-height: 200px;
-}
-
-header nav ul {
-    display: flex;
-}
-
-li {
-    flex-grow: 1;
-}
-
-li a {
-    font-size: 1.5rem;
-}
-
-li:hover a {
-    color: red;
-}
-
-button {
-    border-radius: 30px;
-    padding: 5px 20px;
-}
