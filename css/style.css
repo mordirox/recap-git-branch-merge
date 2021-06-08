@@ -15,3 +15,7 @@ footer {
 .container {
     color: red;
 }
+
+.container a {
+    font-size: 32px;
+}
