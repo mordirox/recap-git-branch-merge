@@ -15,3 +15,7 @@ footer {
 .container {
     color: red;
 }
+
+nav ul li {
+    color: black;
+}
